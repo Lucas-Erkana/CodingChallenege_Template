@@ -1,4 +1,4 @@
-const canJump = require('./jump-game');
+const funtionname = require('./solution');
 const assert = require('assert');
 
 describe('Tests', function () {
